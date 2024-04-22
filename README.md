@@ -31,7 +31,6 @@ RegisterNumber:  212222110045
 ## MainActivity.java:
 ```
 package com.example.exp5;
-
 import androidx.appcompat.app.AppCompatActivity;
 //import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -46,8 +45,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
-```
-```
 import androidx.appcompat.app.AppCompatActivity;
 public class MainActivity extends AppCompatActivity {
     EditText e1, e2;
